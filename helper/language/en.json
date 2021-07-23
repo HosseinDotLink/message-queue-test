@@ -1,0 +1,5 @@
+{
+  "serverIsRunning": "Welcome sir, Server is running at port: ",
+  "mongodbConnected": "MongoDB connected to project",
+  "enterDataCorrectly": "Please enter required data correctly."
+}
