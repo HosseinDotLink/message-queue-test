@@ -1,6 +1,6 @@
 const dotenv = require('dotenv'),
     mongoose = require("mongoose"),
-    db = process.env.MONGOURL || 'mongodb+srv://hossein:nRjHJr66k36kw9X@cluster0.5tlmf.mongodb.net/mqTest',
+    db = process.env.MONGOURL || 'Your-mongodb-address',
     en = require('../helper/language/en.json');
 
 dotenv.config();
